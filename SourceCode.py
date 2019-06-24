@@ -1602,13 +1602,3 @@ f.close()
 # Syntax Analyzer
 syntaxAnalyzerObj = SyntaxAnalyzer(objl.ilist)
 syntaxAnalyzerObj.superFunction()
-
-# objs = SementicsHandler()
-# # print(objs.lookup("teh2"))
-# # print(objs.lookup("teh1"))
-# # print(objs.lookupCT("n","r"))
-# # print(objs.lookupCT("n1","r1"))
-# print(objs.lookupFT("var1",2))
-# print(objs.lookupFT("fn","r"))
-# print(objs.insert("class13","null","public","parentA",2))
-# print(objs.insert("class1","null","public","parentA",2))
