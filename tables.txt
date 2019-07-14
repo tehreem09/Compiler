@@ -1,0 +1,12 @@
+	 Refrence Table
+name: ['A', 'in', 'B']
+type: ['class', 'interface', 'class']
+cat: [None, None, 'abstract']
+parent: [None, None, 'A,in']
+ref: [1, 2, 3]
+
+
+ 	 Class Data Tables
+1: {'name': ['a'], 'type': ['void=>num,string[]'], 'access_modifier': ['public'], 'type_modifier': [None], 'constant': [None], 'ref': [1]}
+2: {'name': ['a'], 'type': ['void=>num,string[]'], 'access_modifier': ['public'], 'type_modifier': [None], 'constant': [None], 'ref': [1]}
+3: {'name': [], 'type': [], 'access_modifier': [], 'type_modifier': [], 'constant': [], 'ref': []}

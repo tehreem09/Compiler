@@ -6,6 +6,7 @@
     "configurations": [
         {
             "name": "Python: Current File",
+            "logToFile": true,
             "type": "python",
             "request": "launch",
             "program": "${file}",

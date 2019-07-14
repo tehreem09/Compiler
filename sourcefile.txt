@@ -1,34 +1,46 @@
-string x = "fffji";
-x = 9 + 2;
-class A:B,C,D{
-    public void fn(num a, num b[]){
-       
-    }
-     private static void fn2(string a[], num b){
-
-    }
-}
-class A:B,C,D{
-    public void fn(num a, num b[]){
-        public void fn(num a){
-
-        }
-       
-    }
-}
 class A{
-    public arr fn(num a, num b[]){
-       
+    public num d;
+    private arr num a = {fn()};
+    private A(num b){
+        
     }
-     private static string fn2(string a[], num b){
+    public void a(num x, string c[]){
 
     }
-}
-class A{
-    public void fn(num a, num b[]){
-       
-    }
-     private static num fn2(string a[], num b){
+    public void a(num x, string c[]){
 
     }
+    
 }
+interface in(){
+
+}
+abstract class B:A,in{
+    abstract class I{
+        
+    }
+    
+}
+static class B:A{
+
+}
+sealed class G:B{
+
+}
+interface C(){
+    
+}
+interface D(){
+
+}
+interface E(){
+
+}
+sealed class H{}
+
+static class F:A,E,D{
+
+}
+
+interface in(){
+    public void fn(num x,num y
